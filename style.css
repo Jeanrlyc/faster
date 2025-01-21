@@ -70,6 +70,7 @@ section{
 #banner{
     display: flex;
     width: 100vw;
+    height: 60vh;
 }
 #text{
     position: absolute;
@@ -123,3 +124,27 @@ section{
 #search input::placeholder{
     padding-left: 1vw;
 }
+span{
+    color: orangered;
+}
+#get h4{
+    color: orangered;
+}
+.texs{
+    display: flex;
+}
+.caixa{
+    display: block;
+    background-color:orangered;
+    width: 20vw;
+    height: 30vh;
+    text-align: center;
+    margin: 2px;
+}
+.caixa2{
+    width: 50vw;
+    height: 30vh;
+    background-color: blue;
+    margin: 2px;
+}
+
